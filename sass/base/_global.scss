@@ -15,6 +15,35 @@ html {
   scroll-behavior: smooth;
 }
 
+main {
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+.container {
+  text-align: center;
+  padding-top: 1rem;
+}
+
+
+
+
+.colors-container {
+  margin: 0 auto;
+  display: flex;
+  width: 500px;
+  height: 300px;
+  border: 2px solid black;
+  margin-top: 1.5rem;
+}
+
+.color-box {
+  background-color: aqua;
+  width: 150px;
+  height: 150px;
+}
+
+
 
 // body {
 //   background-color: #F9F9F9;

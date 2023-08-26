@@ -1,0 +1,23 @@
+{
+  "name": "color-guessing-game",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "scss:watch": "sass --watch sass/main.scss css/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bengera/color-guessing-game.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bengera/color-guessing-game/issues"
+  },
+  "homepage": "https://github.com/bengera/color-guessing-game#readme",
+  "devDependencies": {
+    "sass": "^1.66.1"
+  }
+}
